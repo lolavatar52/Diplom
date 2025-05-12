@@ -12,7 +12,7 @@ order_body = {
     "metroStation": 9,
     "phone": "+7 800 555 35 35",
     "rentTime": 5,
-    "deliveryDate": "2020-06-06",
+    "deliveryDate": "2025-01-02",
     "comment": "Moya igra, ona mne prinadlezhit",
     "color": [
         "BLACK"
